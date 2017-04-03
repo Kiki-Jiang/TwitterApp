@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E54F7FD57B639EE1EA060152DC18B9D6E71BD7AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91F2A20057DD96A52B347C296BBFFA69C033C9EF" : 9223372036854775807,
+    "E54F7FD57B639EE1EA060152DC18B9D6E71BD7AD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C79C1DC9-2958-437C-A8FB-99A5C1FCCC6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91F2A20057DD96A52B347C296BBFFA69C033C9EF" : "",
+    "E54F7FD57B639EE1EA060152DC18B9D6E71BD7AD" : "TwitterApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TwitterApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TwitterApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kiki-Jiang\/WtfApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91F2A20057DD96A52B347C296BBFFA69C033C9EF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IceHismxx\/Eagle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E54F7FD57B639EE1EA060152DC18B9D6E71BD7AD"
+    }
+  ]
+}
