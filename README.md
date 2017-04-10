@@ -56,7 +56,7 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-# Project 5 - *Eagle Part 2*
+# Project 5 - *TwitterApp Part 2*
 
 Time spent: **10** hours spent in total
 
